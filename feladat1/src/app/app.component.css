@@ -1,0 +1,10 @@
+.bookstore header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.bookstore footer {
+  margin-top: 30px;
+  text-align: center;
+}
